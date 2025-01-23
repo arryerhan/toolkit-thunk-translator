@@ -20,3 +20,6 @@
 - react-select: A flexible dropdown component for language selection.
 
 ## Screenshots
+![screen01](https://github.com/user-attachments/assets/32ab4d21-539a-4426-9e6f-a63608792088)
+![screen02](https://github.com/user-attachments/assets/3e937806-b539-4e7d-9673-8639aecae090)
+![screen03](https://github.com/user-attachments/assets/35f1e0b4-8bca-4680-9f5f-fd58d58c718f)
